@@ -19,10 +19,8 @@
 	<title>Semonto</title>
 	<link href="http://www.semonto.com/css/styles.css" rel="stylesheet" type="text/css" />
 	<!--[if IE]><script language="javascript" type="text/javascript" src="http://historycenter.semonto.com/excanvas.pack.js"></script><![endif]-->
-	<!-- <script language="javascript" type="text/javascript" src="http://historycenter.semonto.com/jquery.js"></script>
-	<script language="javascript" type="text/javascript" src="http://historycenter.semonto.com/jquery.flot.js"></script> -->
-	<script language="javascript" type="text/javascript" src="/drupal/sites/default/modules/jquery_update/replace/jquery.js"></script>
-	<script language="javascript" type="text/javascript" src="/jquery.flot.min.js"></script>
+	<script language="javascript" type="text/javascript" src="http://historycenter.semonto.com/jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="http://historycenter.semonto.com/jquery.flot.js"></script>
 	<script language="javascript" type="text/javascript" src="jquery.flot.pie.min.js"></script>
 	<style type="text/css">
 		.half_graph {
